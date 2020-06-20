@@ -381,7 +381,7 @@ nav > ul li a:active {
 .iphonePreview {
 	grid-area: p;
 	background-image: url(https://oscargorog.github.io/automatic-app-landing-page/assets/custom.svg);
-	background-size: 400px auto;
+	background-size: 800px auto;
 	background-repeat: no-repeat;
 	margin-top: 68px;
 }
@@ -395,7 +395,7 @@ nav > ul li a:active {
 }
 
 .videoContainer {
-	width: 349px;
+	width: 700px;
 	height: 755px;
 	-webkit-clip-path: url(#screenMask);
 	clip-path: url(#screenMask);
@@ -411,11 +411,11 @@ nav > ul li a:active {
 @media only screen and (max-width: 1070px) {
 
 	.iphonePreview {
-		background-size: 370px auto;
+		background-size: 740px auto;
 	}
 
 	.iphoneScreen {
-		width: 322px;
+		width: 644px;
 		margin-left: 24px;
 		margin-top: 22px;
 	}
